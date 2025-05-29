@@ -1,0 +1,49 @@
+Pagina
+Cabecera
+	Titulo
+		Bienvenido a mi sitio ñ ←
+	FinTitulo
+Cuerpo
+	Parrafo Posicion Centrada
+		Negrita
+			Este es un texto importante
+		FinNegrita Salto
+		Mi mamá es bella.
+	FinParrafo
+
+	Parrafo
+		Cursiva
+			Este texto está en cursiva
+		FinCursiva
+	FinParrafo
+
+	Parrafo
+		Bienvenidos a esta pequeña página web donde podrás conocer más sobre mí. Salto
+		Me gusta aprender sobre programación, diseño web y bases de datos. Salto
+		Mi lenguaje favorito es Python.
+	FinParrafo
+
+	Parrafo Posicion Centrada
+		Negrita
+			Mis hobbies
+		FinNegrita Salto
+		Me encanta leer, tocar la guitarra y caminar por la playa al atardecer.
+	FinParrafo
+
+	Parrafo
+		Negrita
+			Sobre este sitio
+		FinNegrita Salto
+		Este sitio fue creado como parte de un proyecto personal para aprender a estructurar contenido y practicar codificación.
+	FinParrafo
+
+	Parrafo
+		Gracias por visitar este pequeño rincón del Internet. Espero que encuentres algo útil o inspirador. Salto
+		También puedes escribirme si quieres compartir ideas o sugerencias.
+	FinParrafo
+Ppagina
+	Enlace Con https://chat.openai.com FinCon Mostrar ChatGPT FinMostrar FinEnlace Salto
+	Enlace Con https://www.wikipedia.org FinCon Mostrar Wikipedia FinMostrar FinEnlace Salto
+	Enlace Con https://www.w3schools.com FinCon Mostrar Aprende HTML FinMostrar FinEnlace Salto
+	© Copyright
+FPpagina

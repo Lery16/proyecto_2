@@ -1,0 +1,23 @@
+Pagina
+Cabecera
+	Titulo
+		Bienvenido a mi sitio ñ ←
+	FinTitulo
+Cuerpo
+	Parrafo Posicion Centrada
+		Negrita Cursiva Este es un texto importante FinCursiva FinNegrita Salto
+		Mi mamá es bella.
+	FinParrafo
+
+	Linea
+
+	Parrafo
+		Cursiva
+			Este texto está en cursiva
+		FinCursiva
+	FinParrafo
+
+Ppagina
+	Enlace Con http://www.up.ac.pa FinCon Mostrar Mi Universidad FinMostrar FinEnlace Salto
+	© Copyright
+FPpagina
